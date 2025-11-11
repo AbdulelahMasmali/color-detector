@@ -12,7 +12,7 @@ i did Color Recognition
  
  you can change the to any color you want 
  
- in the code: upper = np.array([35, 2TH55, 255])
+ in the code: upper = np.array([35, 255, 255])
  
  change to RGB to the color you want 
  
